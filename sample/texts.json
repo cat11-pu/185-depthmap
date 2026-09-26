@@ -1,0 +1,4 @@
+{
+  "balance_error_code": "E_UNBALANCED",
+  "text": "a(b(c)d)e"
+}
